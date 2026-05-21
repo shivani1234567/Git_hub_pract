@@ -2,6 +2,6 @@
 int main()
 {
     int x=6;
-    printf(x<<4);
+    printf(x<<5);
     return 0;
 }
